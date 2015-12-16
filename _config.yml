@@ -1,0 +1,28 @@
+name: tat2remover
+favicon: null
+layout_spectrum: 0.5699196537025273
+typography_spectrum: 0.30369550338946283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3112239772453904
+  lightness: 0.9759695092216134
+  saturation: 0.9392078509554267
+  rhythmicContrast: 0.15905804932117462
+purpose: []
